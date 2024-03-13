@@ -124,7 +124,7 @@
 }
 .speaker-card {
     backdrop-filter: blur(20px);
-    margin: 50px 15px 15px;
+    margin: 15px 15px 15px 15px;
     box-sizing: border-box;
     width: 250px;
     border-radius: 30px;
